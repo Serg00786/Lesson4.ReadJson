@@ -1,0 +1,5 @@
+C:\Users\HomePC\source\repos\ReadThreeDifferentJsonStructure\bin\Debug\ReadThreeDifferentJsonStructure.dll
+C:\Users\HomePC\source\repos\ReadThreeDifferentJsonStructure\bin\Debug\ReadThreeDifferentJsonStructure.pdb
+C:\Users\HomePC\source\repos\ReadThreeDifferentJsonStructure\obj\Debug\ReadThreeDifferentJsonStructure.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\ReadThreeDifferentJsonStructure\obj\Debug\ReadThreeDifferentJsonStructure.dll
+C:\Users\HomePC\source\repos\ReadThreeDifferentJsonStructure\obj\Debug\ReadThreeDifferentJsonStructure.pdb
